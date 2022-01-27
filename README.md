@@ -6,6 +6,7 @@ Time spent: Approximately 5 hours total
 
 ### User Stories
 The following user stories were completed: 
+- [x] User can see a styled launch screen
 - [x] User can view the restaurant image for each restaurant
 - [x] User can view and scroll through a list of relevant restaurant.
 - [x] Tableview rows are dynamic height according to its content
