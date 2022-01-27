@@ -21,4 +21,6 @@ CocoaPods used:
 AlamofireImage
 
 Copyrighted images:
-Yelp-branded rating stars
+Yelp-branded rating stars (https://www.yelp.com/developers/display_requirements)
+Yelp logo (found on Google)
+
