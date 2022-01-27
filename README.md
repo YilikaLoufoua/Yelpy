@@ -12,6 +12,9 @@ The following user stories were completed:
 - [x] Custom cells have proper Autolayout constraints
 - [x] User can view the movie poster image for each movie.
 
+### Video Walkthrough
+<img src="https://github.com/YilikaLoufoua/Yelpy/blob/main/walkthrough.gif" width=250><br>
+
 ### Resources
 CocoaPods used:
 AlamofireImage
