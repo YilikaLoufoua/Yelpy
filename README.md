@@ -18,9 +18,12 @@ The following user stories were completed:
 
 ### Resources
 CocoaPods used:
+
 AlamofireImage
 
 Copyrighted images:
+
 Yelp-branded rating stars (https://www.yelp.com/developers/display_requirements)
+
 Yelp logo (found on Google)
 
